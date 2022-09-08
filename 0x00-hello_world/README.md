@@ -1,1 +1,1 @@
-assembler
+an executable named cisfun
