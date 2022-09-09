@@ -1,1 +1,1 @@
-base10 numbers
+print numbers
