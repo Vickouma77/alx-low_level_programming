@@ -1,1 +1,1 @@
-lowercase uppercase
+alphabets e and q
