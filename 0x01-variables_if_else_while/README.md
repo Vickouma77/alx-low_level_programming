@@ -1,1 +1,1 @@
-hexadecimal
+combinations
