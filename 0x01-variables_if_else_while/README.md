@@ -1,1 +1,1 @@
-combinations
+two digits
