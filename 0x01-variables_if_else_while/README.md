@@ -1,1 +1,1 @@
-possible three
+print combo
