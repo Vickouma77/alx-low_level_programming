@@ -1,1 +1,1 @@
-alphabets e and q
+base10 numbers
