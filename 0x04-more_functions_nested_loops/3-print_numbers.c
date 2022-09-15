@@ -1,8 +1,19 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * print_numbers- print numbers between 0 and 9
+ * print_numbers - print  0 - 9
  *
- * @i: input integer
- *R
+ * Return: void
+ */
+
+void print_numbers(void)
+{
+	char a = 0;
+
+	while (a <= 9)
+	{
+	        _putchar(a + '0');
+		a++;
+	}
+	_putchar('\n');
+}
