@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main- takes int as a parameter and updates its values
+ * reset_to_98- takes int as a parameter and updates its values
  *
  *@n:integer pointer
  *
