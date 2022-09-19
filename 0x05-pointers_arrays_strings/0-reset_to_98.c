@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main- takes a pointer to an int as parameter 
+ * main- takes int as a parameter and updates its values
  *
- *@n: integer pointer
+ *@n:integer pointer
  *
  * Return: 0
  *
