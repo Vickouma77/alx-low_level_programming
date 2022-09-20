@@ -2,11 +2,9 @@
 #include <stdio.h>
 
 /**
- * _atoi- converts strings to integers
- *
- * @s: inputs integers
- *
- * Returns: integer
+ * _atoi- function that convert a string to an integer.
+ * @s: inputs strings
+ * Return: integer
  */
 int _atoi(char *s)
 {
