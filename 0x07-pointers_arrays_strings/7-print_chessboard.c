@@ -4,7 +4,7 @@
 
 /**
  * print_chessboard- prints a chase a board
- *
+ * @a: input pointer
  * Return: nothing
  *
  */
