@@ -8,7 +8,7 @@
  * @argv: vector argument
  * Return: 0 for success
  */
-int main(int argc, argv[])
+int main(int argc, char *argv[])
 {
 	if (argc != 3)
 	{
