@@ -6,7 +6,7 @@
  * main- multiplies two numbers
  * @argc: argument count
  * @argv: vector argument
- * Return: 0 for success
+ * Return: 0- success
  */
 int main(int argc, char *argv[])
 {
@@ -16,5 +16,5 @@ int main(int argc, char *argv[])
 		return (1);
 	}
 	printf("%d\n", atoi(argv[1]) * atoi(argv[2]));
-                return (0);
+	return (0);
 }
