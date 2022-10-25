@@ -1,17 +1,17 @@
 Section .text
-global _start
+
+ global _start
 
 _start:
-  mov rax, 1
-  mov rdi, 1
-  mov rsi, msg
-  mov rdx, msglen
-  syscall
+  mov edx,len
+  mov ecx,msg
+  mov ebx,1
+  mov eax,4
+  int 0x80
 
-  mov rax, 60
-  mov rdi, 0
-  syscall
+  mov eax, 1
+  int 0x080
 
-section .rodata
+section .data
   msg: db "Hello, Holberton"
   msglen: equ $ - msg
