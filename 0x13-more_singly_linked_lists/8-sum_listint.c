@@ -21,6 +21,8 @@ int sum_listint(listint_t *head)
 		return (sum);
 	}
 	else if (head == NULL)
+	{
 		return (0);
+	}
 
 }
