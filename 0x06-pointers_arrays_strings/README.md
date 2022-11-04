@@ -1,1 +1,1 @@
-Arrays pointers and string project
+Defining more pointers and arrays
