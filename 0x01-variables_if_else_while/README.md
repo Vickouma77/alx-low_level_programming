@@ -1,1 +1,1 @@
-print combo
+Starting on else if 
