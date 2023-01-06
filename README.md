@@ -6,12 +6,13 @@ An algorithm curriculum is a course or set of courses that teaches students how 
 
 A data structure curriculum is a course or set of courses that teaches students how to design and implement data structures, which are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. A data structure curriculum may cover topics such as arrays, linked lists, stacks, queues, trees, heaps, and hash tables, as well as more advanced data structures such as graphs and trie structures. It may also include topics such as algorithm design techniques that use specific data structures and the trade-offs associated with different data structures. The specific content of a data structure curriculum will depend on the level of the course (e.g., introductory, advanced) and the goals of the curriculum.
 
-## Low-level languages
+## Low-level languages :computer:
+
 - Assembly language: A low-level programming language that is specific to a particular computer architecture and is used to write code that is closely tied to the hardware.
 - Machine code: The native language of a computer, consisting of binary digits (0s and 1s) that can be directly executed by the computer's processor.
 - C: A low-level programming language that provides some abstraction from the hardware and is widely used for operating systems, system software, and other applications that need to interact closely with the hardware. :rocket:
 
-## TOOLS
+## TOOLS :tool:
 ```
     A text editor: This is a program that allows you to write and edit your code. There are many different text editors available, such as Sublime Text, Atom, and Notepad++.
 
