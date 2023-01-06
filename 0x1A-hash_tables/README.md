@@ -57,4 +57,9 @@ int index = hash(key);
 table->entries[index].key = NULL;
 table->entries[index].value = 0;
 ```
+## TECHNOLOGIES
+- Scripts written in Bash 5.1.16(1)
+- C files are compiled using gcc 11.3.0
+- C files are written according to the C90 standard
+- Tested on Ubuntu 20.04 LTS 
 
