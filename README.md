@@ -1,3 +1,12 @@
-Low-level programming & Algorithm
-Curriculum of Low-level programming and algorithm, carried out during Full Stack Software Engineering studies at
-alx.
+# Alx-low-level programming
+
+A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture. This means that the programmer is responsible for managing many of the details of the computer's operation that a high-level programming language would handle automatically. Low-level languages are closer to the machine language that the computer can execute directly, and as a result, they are more efficient and faster, but they are also more difficult to read and write than high-level languages. Some examples of low-level programming languages are assembly language and machine code.
+
+An algorithm curriculum is a course or set of courses that teaches students how to design and implement algorithms, which are sets of steps that can be followed to solve a problem or accomplish a task. An algorithm curriculum may include topics such as data structures, complexity analysis, and algorithms for sorting, searching, and other common tasks. It may also cover more advanced topics such as parallel and distributed algorithms, approximation algorithms, and randomized algorithms. The specific content of an algorithm curriculum will depend on the level of the course (e.g., introductory, advanced) and the goals of the curriculum.
+
+A data structure curriculum is a course or set of courses that teaches students how to design and implement data structures, which are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. A data structure curriculum may cover topics such as arrays, linked lists, stacks, queues, trees, heaps, and hash tables, as well as more advanced data structures such as graphs and trie structures. It may also include topics such as algorithm design techniques that use specific data structures and the trade-offs associated with different data structures. The specific content of a data structure curriculum will depend on the level of the course (e.g., introductory, advanced) and the goals of the curriculum.
+
+## Low-level languages
+- Assembly language: A low-level programming language that is specific to a particular computer architecture and is used to write code that is closely tied to the hardware.
+- Machine code: The native language of a computer, consisting of binary digits (0s and 1s) that can be directly executed by the computer's processor.
+- C: A low-level programming language that provides some abstraction from the hardware and is widely used for operating systems, system software, and other applications that need to interact closely with the hardware. :rocket:
