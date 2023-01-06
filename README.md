@@ -24,3 +24,12 @@ A data structure curriculum is a course or set of courses that teaches students 
 
     A development environment: Some tools, such as IDEs (Integrated Development Environments), provide a more complete development environment that includes all of the tools listed above, as well as additional features such as syntax highlighting, code completion, and version control integration.
 ```
+## TECHNOLOGIES
+
+**
+- Scripts written in Bash 5.1.16(1)
+- C files are compiled using gcc 11.3.0
+- C files are written according to the C90 standard
+- Tested on Ubuntu 20.04 LTS
+**
+
