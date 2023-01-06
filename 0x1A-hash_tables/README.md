@@ -1,5 +1,4 @@
 # C - Hash tables
-![image](https://cdn-media-2.freecodecamp.org/w1280/5f9c9924740569d1a4ca1e14.jpg)
 
 A hash table is a data structure that is used to store keys/values in a way that allows for efficient insertion, deletion, and lookup operations. It does this by using a hash function to map the keys to indices in an array, and then stores the values in the corresponding array locations.
 
