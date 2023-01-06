@@ -10,3 +10,16 @@ A data structure curriculum is a course or set of courses that teaches students 
 - Assembly language: A low-level programming language that is specific to a particular computer architecture and is used to write code that is closely tied to the hardware.
 - Machine code: The native language of a computer, consisting of binary digits (0s and 1s) that can be directly executed by the computer's processor.
 - C: A low-level programming language that provides some abstraction from the hardware and is widely used for operating systems, system software, and other applications that need to interact closely with the hardware. :rocket:
+
+## TOOLS
+```
+    A text editor: This is a program that allows you to write and edit your code. There are many different text editors available, such as Sublime Text, Atom, and Notepad++.
+
+    A compiler or interpreter: This is a program that translates your code into a form that can be executed by the computer. Some low-level languages, such as C and C++, are compiled, which means that the code is translated into machine code that can be directly executed by the processor. Other low-level languages, such as Python, are interpreted, which means that the code is translated into machine code on the fly as it is being executed.
+
+    A debugger: This is a tool that helps you find and fix errors in your code. Debuggers allow you to step through your code line by line, inspect the values of variables, and set breakpoints to pause the execution of your program.
+
+    A library or framework: Many low-level languages provide access to libraries or frameworks that provide useful functionality, such as input/output, networking, or graphics. You may need to use these libraries or frameworks as you learn the language.
+
+    A development environment: Some tools, such as IDEs (Integrated Development Environments), provide a more complete development environment that includes all of the tools listed above, as well as additional features such as syntax highlighting, code completion, and version control integration.
+```
