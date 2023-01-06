@@ -12,7 +12,7 @@ A data structure curriculum is a course or set of courses that teaches students 
 - Machine code: The native language of a computer, consisting of binary digits (0s and 1s) that can be directly executed by the computer's processor.
 - C: A low-level programming language that provides some abstraction from the hardware and is widely used for operating systems, system software, and other applications that need to interact closely with the hardware. :rocket:
 
-## TOOLS :tool:
+## TOOLS :hammer:
 ```
     A text editor: This is a program that allows you to write and edit your code. There are many different text editors available, such as Sublime Text, Atom, and Notepad++.
 
